@@ -1,0 +1,19 @@
+# Python / Anaconda
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+*.conda/
+
+# LaTeX
+*.aux
+*.bbl
+*.blg
+*.fls
+*.log
+*.out
+*.fdb_latexmk
+*.synctex.gz
